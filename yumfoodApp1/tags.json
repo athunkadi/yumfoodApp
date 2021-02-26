@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "chinese"
+  },
+  {
+    "id": 2,
+    "name": "western"
+  },
+  {
+    "id": 3,
+    "name": "korean"
+  },
+  {
+    "id": 4,
+    "name": "indonesian"
+  },
+  {
+    "id": 5,
+    "name": "beverages"
+  },
+  {
+    "id": 6,
+    "name": "halal"
+  },
+  {
+    "id": 7,
+    "name": "lunch"
+  },
+  {
+    "id": 8,
+    "name": "dinner"
+  },
+  {
+    "id": 9,
+    "name": "breakfast"
+  },
+  {
+    "id": 10,
+    "name": "fish"
+  },
+  {
+    "id": 11,
+    "name": "meat"
+  },
+  {
+    "id": 12,
+    "name": "budget"
+  },
+  {
+    "id": 13,
+    "name": "affordable"
+  },
+  {
+    "id": 14,
+    "name": "expensive"
+  }
+]
